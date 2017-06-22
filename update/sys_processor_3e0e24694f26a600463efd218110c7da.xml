@@ -98,7 +98,7 @@
         <sys_class_name>sys_processor</sys_class_name>
         <sys_created_by>john.chun</sys_created_by>
         <sys_created_on>2016-10-18 11:57:00</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3e0e24694f26a600463efd218110c7da</sys_id>
         <sys_mod_count>121</sys_mod_count>
         <sys_name>GQL</sys_name>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Statistics " section_id="385bc6184f9b320079c98c318110c7ce" sys_domain="global" table="x_64935_gql_needlt" version="3" view="user">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-08 00:13:58</sys_created_on>
+            <sys_id>4d5bc6184f9b320079c98c318110c7e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics " display_value="Statistics " name="x_64935_gql_needlt" sys_domain="global" view="345bc6184f9b320079c98c318110c7ca">385bc6184f9b320079c98c318110c7ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-08 00:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-08 00:13:58</sys_created_on>
+            <sys_id>cd5bc6184f9b320079c98c318110c7e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics " display_value="Statistics " name="x_64935_gql_needlt" sys_domain="global" view="345bc6184f9b320079c98c318110c7ca">385bc6184f9b320079c98c318110c7ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-08 00:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-08 00:13:58</sys_created_on>
+            <sys_id>415bc6184f9b320079c98c318110c7e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics " display_value="Statistics " name="x_64935_gql_needlt" sys_domain="global" view="345bc6184f9b320079c98c318110c7ca">385bc6184f9b320079c98c318110c7ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-08 00:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-08 00:13:58</sys_created_on>
+            <sys_id>c15bc6184f9b320079c98c318110c7e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics " display_value="Statistics " name="x_64935_gql_needlt" sys_domain="global" view="345bc6184f9b320079c98c318110c7ca">385bc6184f9b320079c98c318110c7ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-08 00:13:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-08 00:13:58</sys_created_on>
+            <sys_id>455bc6184f9b320079c98c318110c7e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics " display_value="Statistics " name="x_64935_gql_needlt" sys_domain="global" view="345bc6184f9b320079c98c318110c7ca">385bc6184f9b320079c98c318110c7ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-08 00:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-08 00:13:58</sys_created_on>
+            <sys_id>c55bc6184f9b320079c98c318110c7e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics " display_value="Statistics " name="x_64935_gql_needlt" sys_domain="global" view="345bc6184f9b320079c98c318110c7ca">385bc6184f9b320079c98c318110c7ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-08 00:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-08 00:13:58</sys_created_on>
+            <sys_id>495bc6184f9b320079c98c318110c7e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics " display_value="Statistics " name="x_64935_gql_needlt" sys_domain="global" view="345bc6184f9b320079c98c318110c7ca">385bc6184f9b320079c98c318110c7ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-08 00:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-08 00:13:58</sys_created_on>
+            <sys_id>c95bc6184f9b320079c98c318110c7e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics " display_value="Statistics " name="x_64935_gql_needlt" sys_domain="global" view="345bc6184f9b320079c98c318110c7ca">385bc6184f9b320079c98c318110c7ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-08 00:13:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Statistics </caption>
+            <header>false</header>
+            <name>x_64935_gql_needlt</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-08 00:13:57</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>385bc6184f9b320079c98c318110c7ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Statistics </sys_name>
+            <sys_overrides/>
+            <sys_package display_value="gql" source="x_64935_gql">a4d8ddd54f62a600463efd218110c731</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="gql">a4d8ddd54f62a600463efd218110c731</sys_scope>
+            <sys_update_name>sys_ui_section_385bc6184f9b320079c98c318110c7ce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-08 00:13:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="user" name="user">345bc6184f9b320079c98c318110c7ca</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

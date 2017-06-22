@@ -3,30 +3,30 @@
     <sys_app_application action="INSERT_OR_UPDATE">
         <active>true</active>
         <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
-        <description>GQL (Glide Query Language) is a SQL-like query syntax for GlideRecords.</description>
+        <description/>
         <device_type>browser</device_type>
-        <hint>Glide Query Language</hint>
-        <name/>
+        <hint/>
+        <name>needlt</name>
         <order>100</order>
-        <roles>itil</roles>
+        <roles>x_64935_gql.needlt_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
-        <sys_created_by>john.chun</sys_created_by>
-        <sys_created_on>2016-10-21 17:32:29</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-07 23:27:00</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>b8fadd264fe6e600463efd218110c788</sys_id>
+        <sys_id>019046104f9b320079c98c318110c79f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>GQL</sys_name>
+        <sys_name>needlt</sys_name>
         <sys_overrides/>
         <sys_package display_value="gql" source="x_64935_gql">a4d8ddd54f62a600463efd218110c731</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="gql">a4d8ddd54f62a600463efd218110c731</sys_scope>
-        <sys_update_name>sys_app_application_b8fadd264fe6e600463efd218110c788</sys_update_name>
-        <sys_updated_by>john.chun</sys_updated_by>
-        <sys_updated_on>2016-10-21 17:32:29</sys_updated_on>
-        <title>GQL</title>
+        <sys_update_name>sys_app_application_019046104f9b320079c98c318110c79f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-07 23:27:00</sys_updated_on>
+        <title>needlt</title>
         <view_name/>
     </sys_app_application>
 </record_update>

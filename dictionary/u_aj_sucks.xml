@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Aj sucks" max_length="40" name="u_aj_sucks" type="collection">
+        <element label="Video" max_length="40" name="x_64935_gql_video" type="video"/>
+        <element label="Video for AJ" max_length="65536" name="x_64935_gql_video_for_aj" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Why does Aj Suck" max_length="40" name="x_64935_gql_why_does_aj_suck" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="needlt" max_length="40" name="x_64935_gql_needlt" sizeclass="5" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="What needed" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element label="dog" sequence="0" value="dog"/>
+                <element label="cat" sequence="1" value="cat"/>
+                <element label="other" sequence="2" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
+        <element label="Requested for" mandatory="true" max_length="32" name="u_reference_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="legal " label="Request type" mandatory="true" max_length="40" name="u_request_type" type="string">
+            <choice>
+                <element label="Facilities" sequence="0" value="facilities"/>
+                <element label="Legal" sequence="1" value="legal"/>
+                <element label="Your Department Choice" sequence="2" value="your_choice"/>
+                <element label="Human Resources" sequence="3" value="hr"/>
+            </choice>
+        </element>
+        <element label="When needed" max_length="40" name="u_when_needed" type="glide_date_time"/>
+    </element>
+</database>

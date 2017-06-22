@@ -88,7 +88,7 @@ GQL.prototype.query = function(gql, format) {
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>john.chun</sys_created_by>
         <sys_created_on>2016-10-17 23:35:12</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>37674ed14fa2a600463efd218110c700</sys_id>
         <sys_mod_count>75</sys_mod_count>
         <sys_name>GQL</sys_name>

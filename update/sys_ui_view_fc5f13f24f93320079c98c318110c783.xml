@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>new_view_</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>Eggplant</sys_created_by>
+        <sys_created_on>2017-06-16 00:45:46</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>fc5f13f24f93320079c98c318110c783</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New view </sys_name>
+        <sys_package display_value="gql" source="x_64935_gql">a4d8ddd54f62a600463efd218110c731</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="gql">a4d8ddd54f62a600463efd218110c731</sys_scope>
+        <sys_update_name>sys_ui_view_fc5f13f24f93320079c98c318110c783</sys_update_name>
+        <sys_updated_by>Eggplant</sys_updated_by>
+        <sys_updated_on>2017-06-16 00:45:46</sys_updated_on>
+        <title>New view </title>
+        <user/>
+    </sys_ui_view>
+</record_update>

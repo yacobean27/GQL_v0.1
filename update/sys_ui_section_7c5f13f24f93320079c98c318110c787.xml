@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="7c5f13f24f93320079c98c318110c787" sys_domain="global" table="u_aj_sucks" version="3" view="new_view_">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_does_aj_suck</element>
+            <position>0</position>
+            <sys_created_by>Eggplant</sys_created_by>
+            <sys_created_on>2017-06-16 00:45:50</sys_created_on>
+            <sys_id>b55f13f24f93320079c98c318110c7ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_aj_sucks" sys_domain="global" view="fc5f13f24f93320079c98c318110c783">7c5f13f24f93320079c98c318110c787</sys_ui_section>
+            <sys_updated_by>Eggplant</sys_updated_by>
+            <sys_updated_on>2017-06-16 00:45:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_64935_gql_why_does_aj_suck</element>
+            <position>1</position>
+            <sys_created_by>Eggplant</sys_created_by>
+            <sys_created_on>2017-06-16 00:45:50</sys_created_on>
+            <sys_id>395f13f24f93320079c98c318110c7ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_aj_sucks" sys_domain="global" view="fc5f13f24f93320079c98c318110c783">7c5f13f24f93320079c98c318110c787</sys_ui_section>
+            <sys_updated_by>Eggplant</sys_updated_by>
+            <sys_updated_on>2017-06-16 00:45:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_64935_gql_video_for_aj</element>
+            <position>2</position>
+            <sys_created_by>Eggplant</sys_created_by>
+            <sys_created_on>2017-06-16 00:45:50</sys_created_on>
+            <sys_id>b95f13f24f93320079c98c318110c7ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_aj_sucks" sys_domain="global" view="fc5f13f24f93320079c98c318110c783">7c5f13f24f93320079c98c318110c787</sys_ui_section>
+            <sys_updated_by>Eggplant</sys_updated_by>
+            <sys_updated_on>2017-06-16 00:45:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_aj_sucks</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Eggplant</sys_created_by>
+            <sys_created_on>2017-06-16 00:45:46</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c5f13f24f93320079c98c318110c787</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_aj_sucks</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="gql" source="x_64935_gql">a4d8ddd54f62a600463efd218110c731</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="gql">a4d8ddd54f62a600463efd218110c731</sys_scope>
+            <sys_update_name>sys_ui_section_7c5f13f24f93320079c98c318110c787</sys_update_name>
+            <sys_updated_by>Eggplant</sys_updated_by>
+            <sys_updated_on>2017-06-16 00:45:46</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="New view " name="new_view_">fc5f13f24f93320079c98c318110c783</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
